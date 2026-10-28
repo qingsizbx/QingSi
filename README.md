@@ -9,6 +9,7 @@
 | 文档 | 说明 |
 | --- | --- |
 | [`docs/architecture.md`](docs/architecture.md) | 系统架构与开发组织架构设计说明（v0.1，待评审） |
+| [`docs/系统架构与开发组织讲解.txt`](docs/系统架构与开发组织讲解.txt) | 文字讲解版：设计思路、逐模块讲解、汇报指南与问答准备 |
 | [`docs/ppt/皮瓣状态智能辅助监测系统-架构与开发组织-v0.1.pptx`](docs/ppt/皮瓣状态智能辅助监测系统-架构与开发组织-v0.1.pptx) | 评审用 PPT（26 页，含演讲备注） |
 | [`docs/ppt/build-deck.js`](docs/ppt/build-deck.js) | PPT 生成脚本 |
 
