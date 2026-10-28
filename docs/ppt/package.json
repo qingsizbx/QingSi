@@ -1,0 +1,18 @@
+{
+  "name": "qingsi-architecture-deck",
+  "version": "0.1.0",
+  "private": true,
+  "description": "生成《皮瓣状态智能辅助监测系统 — 系统与开发组织架构》评审 PPT",
+  "main": "build-deck.js",
+  "scripts": {
+    "build": "node build-deck.js"
+  },
+  "dependencies": {
+    "jszip": "^3.10.2",
+    "pptxgenjs": "^4.0.1",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-icons": "^5.7.0",
+    "sharp": "^0.35.5"
+  }
+}
